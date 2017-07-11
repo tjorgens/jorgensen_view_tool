@@ -6,12 +6,12 @@ require 'jorgensen_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "jorgensen_view_tool"
   spec.version       = JorgensenViewTool::VERSION
-  spec.authors       = ["Jordan Hudgens"]
-  spec.email         = ["jordan@devcamp.com"]
+  spec.authors       = ["Tess Jorgensen"]
+  spec.email         = ["tess.jorgen@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "google.com"
+  spec.homepage      = "https://tjorge-tjorge.c9users.io/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
